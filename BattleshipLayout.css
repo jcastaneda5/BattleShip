@@ -1,0 +1,48 @@
+
+table 
+{
+	border-collapse: collapse;
+	border-radius: 25px;
+	padding: 10 px;
+}
+
+td
+{
+	background-color: #2874A6;
+	border: 3px solid black;
+}
+
+th
+{
+	height: 60px;
+
+}
+#sky{
+	background-color: blue;
+}
+.button {
+	border-radius: 5px;	
+	background-color: #2874A6;
+}
+
+.shiphole{
+	background-color: blue;
+	border-radius: 5px;
+}
+
+#shiplocation
+{
+	background-color: gray;
+	border-radius: 5px;
+}
+
+.miss
+{
+	background-color:white;
+	border-radius:5px;
+}
+
+.hit{
+	background-color: red;
+	border-radius:5px;
+}
